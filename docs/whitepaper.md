@@ -22,3 +22,12 @@ cSankalp operates on two key blockchains:
 - **Polygon Blockchain**: Optimized for scalability and cross-border transactions, enabling high-speed, low-cost transfers globally.
 
 Additionally, the ecosystem integrates **e₹ (CBDC)** for seamless fiat-to-crypto conversions and c₹ (Crypto Rupee) for decentralized financial transactions.
+# User Onboarding Process
+
+1. Users deposit INR through popular UPI apps (Paytm, Google Pay, PhonePe).
+2. INR is converted to e₹ (CBDC), which is then exchanged for c₹ (Crypto Rupee).
+3. Regulatory compliance is ensured via KYC/AML processes integrated with the platform.
+
+## Compliance:
+- KYC/AML checks
+- Real-time regulatory monitoring
