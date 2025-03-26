@@ -1,0 +1,12 @@
+Test Case 1: Smart Contract Deployment
+- Verify that the smart contract can be deployed on the blockchain.
+
+Test Case 2: Set and Get Message
+- Verify that the message can be set using the setMessage function.
+- Verify that the correct message is returned using the getMessage function.
+
+Test Case 3: Cross-Border Payment Test
+- Test the functionality of the cSankalp cross-border payment system using a sample transaction.
+
+Test Case 4: Compliance Check
+- Verify that the system complies with regulatory standards (RBI, KYC/AML) during user onboarding.
