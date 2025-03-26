@@ -31,3 +31,15 @@ Additionally, the ecosystem integrates **e₹ (CBDC)** for seamless fiat-to-cryp
 ## Compliance:
 - KYC/AML checks
 - Real-time regulatory monitoring
+# Blockchain and Crypto Exchange Integration
+
+cSankalp integrates with leading cryptocurrency exchanges to provide liquidity and access to global markets. By using decentralized smart contracts for transaction validation, we ensure real-time compliance and efficient processing.
+
+## Key Features:
+- **Integration with Leading Exchanges**: Including CoinDCX, WazirX, and Binance for liquidity.
+- **Smart Contracts for Compliance**: All transactions undergo validation through smart contracts to ensure compliance with global regulations.
+- **Liquidity Management**: DeFi mechanisms for efficient liquidity management, ensuring low slippage during trading.
+
+## Transaction Flow:
+- Deposits are made in INR (or other supported fiat) through UPI.
+- Funds are converted into e₹ (CBDC) and then into c₹ (Crypto Rupee) for further trading.
