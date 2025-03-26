@@ -43,3 +43,14 @@ cSankalp integrates with leading cryptocurrency exchanges to provide liquidity a
 ## Transaction Flow:
 - Deposits are made in INR (or other supported fiat) through UPI.
 - Funds are converted into e₹ (CBDC) and then into c₹ (Crypto Rupee) for further trading.
+# Merchant & Fintech Adoption
+
+cSankalp enables seamless integration for merchants and fintech partners by offering powerful APIs for transactions. This integration ensures a frictionless experience for users, allowing payments to be processed efficiently and in a compliant manner.
+
+## Key Features:
+- **API Integration for Merchants**: Easy-to-use APIs for quick merchant integration.
+- **Cross-border Payments**: Ability for merchants to accept payments in c₹, reducing transaction fees and delays typically seen with traditional payment methods.
+
+## Adoption in India & BRICS:
+- We are focusing on expanding adoption in India, followed by scaling into BRICS nations like Brazil, Russia, and China.
+- Projected adoption rates are estimated to rise significantly as blockchain-based payment solutions gain traction.
