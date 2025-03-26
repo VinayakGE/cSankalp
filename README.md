@@ -163,6 +163,9 @@ Invest in cSankalp to be part of the future of finance.
 - **Year 3-5:** Expansion into BRICS nations and international markets.
 - **Year 5-10:** Global DeFi integration and further scaling.
 
+---
+
+
 **Utilities of cSankalp
 
 
