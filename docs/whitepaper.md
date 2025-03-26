@@ -79,3 +79,17 @@ cSankalp adheres to the highest standards of regulatory compliance in India and 
 - **RBI (Reserve Bank of India)**
 - **NPCI (National Payments Corporation of India)**
 - **FATF (Financial Action Task Force)**
+# Revenue Model & Monetization Strategy
+
+cSankalp generates revenue through multiple streams that align with our mission to provide efficient, scalable, and compliant financial services.
+
+## Revenue Streams:
+- **Transaction Fees**: Micro-fees for payments made using c₹ or e₹, ensuring a sustainable revenue model.
+- **API Licensing**: Fees charged to fintech partners and merchants for using our APIs to integrate payment solutions.
+- **Cross-border Remittance Charges**: Fees for facilitating international transfers via c₹.
+
+## Financial Projections:
+- Our 5-year financial forecast indicates steady revenue growth, with a break-even point expected in Year 2 as adoption increases.
+
+### Expected ROI:
+- Estimated ROI for investors over 5 years: **25%** annually.
