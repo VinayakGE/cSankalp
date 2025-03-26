@@ -1,21 +1,9 @@
-# cSankalp Whitepaper
+# Executive Summary
 
-## Introduction
+cSankalp is a Hybrid Finance (HyFi) ecosystem designed to integrate the benefits of traditional finance with blockchain technology. It focuses on scalability, regulatory compliance, and offering a seamless experience for cross-border payments, DeFi services, and crypto integration.
 
-cSankalp is a hybrid finance ecosystem designed to bridge the gap between traditional finance and blockchain finance. With a focus on scalability, compliance, and user adoption, cSankalp aims to revolutionize the financial sector by introducing blockchain-based solutions to solve real-world financial problems.
+Our mission is to drive financial inclusion, enhance the global remittance process, and ensure compliance with regulatory frameworks in India and other BRICS countries.
 
-## Mission
-
-To provide seamless, scalable, and regulatory-compliant hybrid finance solutions for users worldwide.
-
-## Vision
-
-To be the leader in hybrid finance solutions, enabling cross-border transactions, reducing remittance costs, and fostering financial inclusion globally.
-
-## Hybrid Finance (HyFi)
-
-Hybrid Finance (HyFi) integrates the best of traditional financial systems with blockchain technology, creating a robust, scalable, and compliant financial ecosystem.
-
-## Conclusion
-
-The future of finance is hybrid, and cSankalp is poised to lead the way with its innovative solutions
+## Key Highlights:
+- Integration of Bharat Blockchain (India-specific regulatory compliance) and Polygon Blockchain (Scalability).
+- The introduction of e₹ (Central Bank Digital Currency) to facilitate seamless transactions.
