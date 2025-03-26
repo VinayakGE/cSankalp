@@ -93,3 +93,16 @@ cSankalp generates revenue through multiple streams that align with our mission 
 
 ### Expected ROI:
 - Estimated ROI for investors over 5 years: **25%** annually.
+# Scalability & Expansion Strategy
+
+cSankalp plans a phased expansion starting with India, followed by BRICS nations, and ultimately scaling globally to reach mass adoption.
+
+## Phase 1: Domestic Rollout (1-2 years)
+- Focus on onboarding merchants and fintech partners within India.
+- Expand user base through targeted marketing and education on blockchain and DeFi benefits.
+
+## Phase 2: Expansion into BRICS Nations (3-5 years)
+- Expand into Brazil, Russia, China, and South Africa, capitalizing on the growth of blockchain adoption in these regions.
+
+## Phase 3: Global Adoption & DeFi Integration (5-10 years)
+- Transition into a fully decentralized finance (DeFi) ecosystem, enabling users globally to trade, invest, and settle payments using c₹.
