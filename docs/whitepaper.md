@@ -66,3 +66,16 @@ cSankalp enables efficient cross-border payments by using c₹ as an alternative
 ## Cost Comparison:
 - **SWIFT**: Transaction fees can range from 0.5% to 5% depending on the countries involved.
 - **cSankalp**: Transaction fees for c₹ are a fraction of the cost with reduced delays.
+# Regulatory & Compliance Framework
+
+cSankalp adheres to the highest standards of regulatory compliance in India and globally. Our platform ensures real-time compliance with local and international financial regulations.
+
+## Compliance Features:
+- **KYC/AML**: Real-time KYC (Know Your Customer) and AML (Anti-Money Laundering) checks to prevent illegal activities.
+- **Blockchain Transparency**: All transactions are recorded on the blockchain, providing a transparent and immutable audit trail.
+- **RBI & NPCI Compliance**: We ensure that cSankalp remains fully compliant with the Reserve Bank of India (RBI) guidelines and the National Payments Corporation of India (NPCI) standards.
+
+## Regulatory Bodies Involved:
+- **RBI (Reserve Bank of India)**
+- **NPCI (National Payments Corporation of India)**
+- **FATF (Financial Action Task Force)**
