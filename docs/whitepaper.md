@@ -15,3 +15,10 @@ Hybrid Finance (HyFi) is a financial ecosystem that combines traditional financi
 - Increased efficiency and reduced transaction costs
 - Cross-border payment solutions
 - Real-time regulatory compliance
+# cSankalp Ecosystem Overview
+
+cSankalp operates on two key blockchains:
+- **Bharat Blockchain**: Focused on regulatory compliance, ensuring adherence to RBI, NPCI, and other financial authorities.
+- **Polygon Blockchain**: Optimized for scalability and cross-border transactions, enabling high-speed, low-cost transfers globally.
+
+Additionally, the ecosystem integrates **e₹ (CBDC)** for seamless fiat-to-crypto conversions and c₹ (Crypto Rupee) for decentralized financial transactions.
