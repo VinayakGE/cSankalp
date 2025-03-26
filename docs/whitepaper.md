@@ -54,3 +54,15 @@ cSankalp enables seamless integration for merchants and fintech partners by offe
 ## Adoption in India & BRICS:
 - We are focusing on expanding adoption in India, followed by scaling into BRICS nations like Brazil, Russia, and China.
 - Projected adoption rates are estimated to rise significantly as blockchain-based payment solutions gain traction.
+# Cross-Border Payments & Forex Settlements
+
+cSankalp enables efficient cross-border payments by using c₹ as an alternative to SWIFT for remittances and international trade settlements. By leveraging blockchain technology, we eliminate intermediaries, reduce costs, and increase the speed of transactions.
+
+## Key Benefits:
+- **Cost Efficiency**: Significantly reduces fees compared to traditional banking systems and SWIFT.
+- **Speed**: Transactions settle in real-time, unlike the days-long settlement periods with SWIFT.
+- **Global Trade**: c₹ facilitates easy payments for international trade and remittances, enhancing India’s economic ties with global markets.
+
+## Cost Comparison:
+- **SWIFT**: Transaction fees can range from 0.5% to 5% depending on the countries involved.
+- **cSankalp**: Transaction fees for c₹ are a fraction of the cost with reduced delays.
