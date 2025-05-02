@@ -5,6 +5,8 @@
 **Mission & Vision**  
 cSankalp bridges traditional finance and decentralized systems by offering a regulated, inclusive Hybrid Finance (HyFi) platform. Our mission is to empower individuals, merchants, and institutions with a secure, sovereign financial infrastructure built for the digital era.
 
+---
+
 ## What is Hybrid Finance (HyFi)?
 
 Hybrid Finance (HyFi) integrates the benefits of traditional financial systems (TradFi) with decentralized technologies (DeFi), ensuring:
@@ -25,7 +27,7 @@ HyFi is the necessary bridge to make digital assets legally viable and economica
 - Financial inclusion at scale
 - Sovereignty-first infrastructure
 
-**Key Components**
+**Key Components (Public View)**
 - **c₹ (Crypto Rupee):** Utility token used within the cSankalp ecosystem for seamless digital payments and cross-border transactions.
 - **Regulatory Blockchain Layer:** Ensures all transactions follow compliance protocols (aligned with India-first legal frameworks).
 - **Polygon Blockchain:** Powers scalable cross-border functionalities.
@@ -67,7 +69,7 @@ HyFi is the necessary bridge to make digital assets legally viable and economica
 
 ---
 
-## Technology & Infrastructure
+## Technology & Infrastructure (Public Details)
 
 - **Smart Contracts:** For secure, verifiable logic on token flows.
 - **Security:** Multi-sig wallets, encrypted custody, and transaction logging.
@@ -76,7 +78,7 @@ HyFi is the necessary bridge to make digital assets legally viable and economica
 
 ---
 
-## Regulatory & Legal Highlights
+## Regulatory & Legal Highlights (Public)
 
 - Complies with Indian regulations: RBI, SEBI sandbox, NPCI protocols
 - Transparent KYC/AML pipeline
@@ -84,7 +86,7 @@ HyFi is the necessary bridge to make digital assets legally viable and economica
 
 ---
 
-## Revenue Streams
+## Revenue Streams (Public)
 
 1. **Transaction Fees:** On c₹ transfers and ecosystem payments  
 2. **API Licensing:** For fintech and merchant access  
@@ -100,12 +102,19 @@ HyFi is the necessary bridge to make digital assets legally viable and economica
 
 ---
 
+## Flowchart
+
+![Hybrid Finance Flowchart](./assets/hyfi-flowchart.png)
+
+---
+
 ## Join the Movement
 
 Be a part of India’s sovereign financial future.
 
 **Contact & Collaborations:**  
-[vinayakgautham@gmail.com]
+[vinayakgauatham@gmail.com](mailto:vinayakgautham@gmail.com) 
+
 ---
 
 © 2025 cSankalp Foundation. All rights reserved.  
