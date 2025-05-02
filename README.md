@@ -105,9 +105,7 @@ HyFi is the necessary bridge to make digital assets legally viable and economica
 Be a part of India’s sovereign financial future.
 
 **Contact & Collaborations:**  
-[info@csankalp.in](mailto:info@csankalp.in)  
-[www.csankalp.in](https://www.csankalp.in)
-
+[vinayakgautham@gmail.com]
 ---
 
 © 2025 cSankalp Foundation. All rights reserved.  
